@@ -1,0 +1,13 @@
+# ANDRIES DANIEL LOUW | 25302262 | CTIP152 SS2
+
+# LIBRARIAN DICTIONARY
+librarians = {}
+
+# FAILED ATTEPTS DICTIONARY
+failedAttempts ={}
+
+#LOCKED ACCOUNTS SET
+lockedAccounts = set()
+
+# BOOKS
+books = []
